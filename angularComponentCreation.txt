@@ -1,0 +1,7 @@
+ng g c live
+g=> generate
+c => component
+
+ng g s api-call
+s => service
+g => generate
